@@ -1,0 +1,5 @@
+ Proyecto Académico
+
+Sistema de Gestión de Biblioteca (Proyecto Académico)
+Desarrollo de una aplicación básica para registrar libros, usuarios y préstamos utilizando lógica de programación y bases de datos SQLite.
+El proyecto fue elaborado como práctica académica, aplicando consultas SQL, validación de datos y control de versiones con Git y GitHub.
